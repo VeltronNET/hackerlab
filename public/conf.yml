@@ -242,22 +242,22 @@ sections:
         description: Welcome to my blog.
         provider: Dashy.to
         icon: far fa-book
-        url: https://home.venith.net/blog/
+        url: https://home.veltron.net/blog/
         id: 1_2073_docs
-      - title: VENITH Blog
+      - title: VELTRON Blog
         description: Welcome to the HQ!
-        url: https://venith.net/blog.html
+        url: https://veltron.net/blog.html
         icon: si-nintendo3ds
         id: 2_2073_showcase
-      - title: The VENITH Network
-        description: Welcome to VENITH!
-        url: https://www.venith.net
+      - title: The VELTRON Network
+        description: Welcome to VELTRON!
+        url: https://www.veltron.net
         icon: si-apple
         id: 3_2073_configdocs
       - title: DCTheGamr
         description: DigitalCheese
         icon: si-prometheus
-        url: https://dc.venith.net/
+        url: https://dc.veltron.net/
         target: newtab
         id: 4_2073_demo
       - title: CourvixNetwork
